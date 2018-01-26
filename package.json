@@ -1,7 +1,7 @@
 {
-  "name": "node-red-node-cf-cloudant",
+  "name": "node-red-node-cf-cloudant-plus-view",
   "version": "0.2.17",
-  "description": "A Node-RED node to access Cloudant and couchdb databases",
+  "description": "A Node-RED node to access Cloudant and couchdb databases and use views",
   "dependencies": {
     "cfenv": "1.0.0",
     "cloudant": "1.4.*"
@@ -23,21 +23,18 @@
     }
   },
   "author": {
-    "name": "Luiz Gustavo Ferraz Aoqui",
-    "email": "laoqui@ca.ibm.com"
+    "name": "Bjön de Ruiter",
+    "email": "bjornderuiter@gmail.com"
   },
   "contributors": [
     {
-      "name": "Túlio Pascoal"
-    },
-    {
-      "name": "Igor Leão"
+      "name": "Björn de Ruiter"
     }
   ],
   "maintainers": [
     {
-      "name": "luiz_aoqui",
-      "email": "laoqui@ca.ibm.com"
+      "name": "Björnde Ruiter",
+      "email": "bjornderuiter@gmail.com"
     }
   ]
 }
